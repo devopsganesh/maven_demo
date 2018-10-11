@@ -1,5 +1,5 @@
 This is a simple demonstration application used in the Jenkins Boostcamp course
-bhooks testing
+webhooks testing
 
 ## Building the project
 
